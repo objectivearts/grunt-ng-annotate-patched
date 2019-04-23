@@ -2,7 +2,7 @@
   "name": "grunt-ng-annotate-patched",
   "version": "3.0.1",
   "description": "Add, remove and rebuild AngularJS dependency injection annotations. Patched for ES6.",
-  "homepage": "https://github.com/mgol/grunt-ng-annotate",
+  "homepage": "https://github.com/alekstrust/grunt-ng-annotate-patched.git",
   "author": {
     "name": "Michał Gołębiowski",
     "email": "m.goleb@gmail.com"
