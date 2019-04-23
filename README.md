@@ -1,5 +1,6 @@
-# grunt-ng-annotate
-> Add, remove and rebuild AngularJS dependency injection annotations. Based on [ng-annotate](https://www.npmjs.org/package/ng-annotate).
+# grunt-ng-annotate-patched
+Fork of [grunt-ng-annotate](https://github.com/mgol/grunt-ng-annotate) updated to use [ng-annotate-patched](https://github.com/nevcos/ng-annotate-patched). 
+> Add, remove and rebuild AngularJS dependency injection annotations. Based on [ng-annotate-patched](https://github.com/nevcos/ng-annotate-patched) fork with support for ES6 import/export and classes.
 
 [![Build Status](https://travis-ci.org/mgol/grunt-ng-annotate.svg?branch=master)](https://travis-ci.org/mgol/grunt-ng-annotate)
 [![Build status](https://ci.appveyor.com/api/projects/status/rr3i854ic8rb47i5/branch/master?svg=true)](https://ci.appveyor.com/project/mgol/grunt-ng-annotate/branch/master)
