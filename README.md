@@ -4,7 +4,7 @@ Fork of [grunt-ng-annotate](https://github.com/mgol/grunt-ng-annotate) updated t
 
 [![Build Status](https://travis-ci.org/mgol/grunt-ng-annotate.svg?branch=master)](https://travis-ci.org/mgol/grunt-ng-annotate)
 [![Build status](https://ci.appveyor.com/api/projects/status/rr3i854ic8rb47i5/branch/master?svg=true)](https://ci.appveyor.com/project/mgol/grunt-ng-annotate/branch/master)
-[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+[![Built with Grunt](https://gruntjs.com/cdn/builtwith.png)](http://gruntjs.com/)
 
 ## Getting Started
 This plugin requires Grunt.
