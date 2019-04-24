@@ -18,7 +18,7 @@ npm install grunt-ng-annotate-patched --save-dev
 Once the plugin has been installed, it may be enabled inside your Gruntfile with this line of JavaScript:
 
 ```js
-grunt.loadNpmTasks('grunt-ng-annotate');
+grunt.loadNpmTasks('grunt-ng-annotate-patched');
 ```
 
 ## Overview
